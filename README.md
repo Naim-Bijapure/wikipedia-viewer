@@ -3,8 +3,4 @@ An small JavaScript based app that fetches results for any given strings from Wi
 
 It's built using HTML, CSS (SASS) and JavaScript (jQury).
 
-### You can see the page live [here.](https://codepen.io/afiur_fahim/full/PJJpNz/)
 
-### Screenshot:
-
-![Screenshot of the Page](https://github.com/faahim/wikipedia-viewer/blob/master/Screenshot.png)
